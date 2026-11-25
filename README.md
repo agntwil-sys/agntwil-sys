@@ -1,43 +1,72 @@
-<h1>Hi, I'm Wilbert</h1>
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Wilbert Law — Software Engineer and Founder of Wil.ai" width="100%">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;pause=1900&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=38&amp;lines=Building+AI+tools+for+the+Indonesian+web;Shipping+full-stack+web+and+mobile+products;Turning+ideas+into+products+people+can+use" alt="Building AI tools for the Indonesian web and shipping full-stack web and mobile products">
+</p>
+<p align="center">
+  Medan, Indonesia · Computer Science at BINUS University<br>
+  <a href="https://wil.ai.id"><strong>wil.ai.id</strong></a> · <a href="mailto:wilverses@gmail.com">wilverses@gmail.com</a>
+</p>
 
-**Software developer from Medan, Indonesia** · Computer Science @ BINUS University<br>
-I build and ship full-stack web, mobile and AI products, end to end.
+## Featured project: Wil.ai
 
-[![Website](https://img.shields.io/badge/wil.ai.id-live-1f6feb?style=flat-square)](https://wil.ai.id)
-[![Email](https://img.shields.io/badge/wilverses@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wilverses@gmail.com)
+**An AI website builder for Indonesia.** Describe a site in everyday Indonesian and Wil generates a preview and helps you publish in under two minutes.
 
----
+<p align="center">
+  <a href="https://wil.ai.id"><img src="assets/wil-homepage.png" alt="Wil.ai homepage showing an Indonesian-language prompt for generating a business website" width="100%"></a>
+</p>
 
-### Featured: [Wil — wil.ai.id](https://wil.ai.id)
+| | How it works |
+| :--- | :--- |
+| **Application** | Next.js, TypeScript, tRPC, Drizzle ORM, PostgreSQL, and Better Auth |
+| **AI & runtime** | OpenAI, Anthropic, and Gemini via the Vercel AI SDK, with code execution in Daytona sandboxes |
+| **Operations** | Deployed on Railway, with KiPay checkout for subscriptions and acquisition through Google Ads and SEO |
 
-An AI website builder for Indonesia. Describe your site in everyday Indonesian and Wil generates, previews and publishes it in under two minutes.
+## Selected projects
 
-- Next.js · TypeScript · tRPC · Drizzle ORM · Postgres · Better Auth
-- LLMs via Vercel AI SDK (OpenAI, Anthropic, Gemini), code executed in Daytona sandboxes
-- Subscription billing with KiPay checkout, deployed on Railway
-- Growth through Google Ads and SEO content
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Evo</h3>
+      <p>A mobile app for iOS and Android.</p>
+      <sub>React Native · Expo · Capacitor</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>E-Class</h3>
+      <p>An AI-assisted learning platform with an in-browser code editor.</p>
+      <sub>Next.js · Hono · Trigger.dev · Sentry</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>UpdatePTN</h3>
+      <p>A content platform with rich-text editing and AI features.</p>
+      <sub>Next.js · PostgreSQL · Tiptap · Gemini</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Rakit</h3>
+      <p>The first version of my AI website builder.</p>
+      <sub>Next.js · MCP · Monaco</sub>
+    </td>
+  </tr>
+</table>
 
-### Other things I've built
+Most of my work lives in private repositories. I'm happy to walk through the code on request.
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Evo** | Mobile app for iOS/Android | React Native, Expo, Capacitor |
-| **E-Class** | AI-assisted learning platform with in-browser code editor | Next.js, Hono, Trigger.dev, Sentry |
-| **UpdatePTN** | Content platform with rich-text editor and AI features | Next.js, Postgres, Tiptap, Gemini |
-| **Rakit** | First version of my AI website builder | Next.js, MCP, Monaco |
+## Tech stack
 
-### Tech
+**Web and data**<br>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres&amp;theme=dark" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, and PostgreSQL">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+**Shipping and collaboration**<br>
+<img src="https://skillicons.dev/icons?i=vercel,git,github&amp;theme=dark" alt="Vercel, Git, and GitHub">
 
-Most of my work lives in private repos. Happy to walk through the code on request.
+I also work with React Native and Expo for mobile, tRPC for APIs, and Railway for deployments.
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=agntwil-sys&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0B1020&amp;title_color=A5B4FC&amp;text_color=CBD5E1&amp;icon_color=67E8F9&amp;border_color=253452" alt="Wilbert Law's GitHub statistics" width="48%">
+  <img src="https://streak-stats.demolab.com?user=agntwil-sys&amp;theme=tokyonight&amp;background=0B1020&amp;border=253452&amp;ring=A5B4FC&amp;fire=67E8F9&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=A5B4FC&amp;sideLabels=CBD5E1&amp;dates=94A3B8" alt="Wilbert Law's GitHub contribution streak" width="48%">
+</p>
