@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
+  <title id="title">Wilbert Law</title>
+  <desc id="desc">Software Engineer · Founder of Wil.ai. Indigo and cyan orbits against a dark grid.</desc>
+  <defs>
+    <linearGradient id="surface" x2="100%" y2="100%">
+      <stop stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#151b3d"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#6366f1" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#a5b4fc"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M0 28V0h28" fill="none" stroke="#a5b4fc" stroke-opacity=".10"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1000" height="270" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="270" fill="url(#surface)"/>
+    <ellipse cx="754" cy="140" rx="260" ry="205" fill="url(#halo)"/>
+    <rect x="599" width="401" height="270" fill="url(#grid)"/>
+    <path d="M599 0v270" stroke="#a5b4fc" stroke-opacity=".18"/>
+    <rect x="54" y="47" width="29" height="2" rx="1" fill="url(#accent)"/>
+    <text x="94" y="53" fill="#a5b4fc" font-family="ui-monospace,Consolas,monospace" font-size="14" letter-spacing="2.8">ENGINEERING PORTFOLIO</text>
+    <text x="50" y="138" fill="#f8fafc" font-family="system-ui,Segoe UI,sans-serif" font-size="74" font-weight="750" letter-spacing="-3">Wilbert Law</text>
+    <text x="55" y="177" fill="#cbd5e1" font-family="system-ui,Segoe UI,sans-serif" font-size="24">Software Engineer · Founder of Wil.ai</text>
+    <path d="M54 215h490" stroke="#a5b4fc" stroke-opacity=".22"/>
+    <text x="55" y="241" fill="#94a3b8" font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="2.1">MEDAN, INDONESIA</text>
+    <g transform="translate(800 135)">
+      <circle r="102" fill="none" stroke="#a5b4fc" stroke-opacity=".38"/>
+      <circle r="84" fill="none" stroke="#a5b4fc" stroke-opacity=".22" stroke-dasharray="2 5"/>
+      <circle r="62" fill="#10162e" stroke="#a5b4fc" stroke-opacity=".55"/>
+      <path d="M-25-15l-20 15 20 15m50-30 20 15-20 15M8-23-8 23" fill="none" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <g>
+        <circle cy="-102" r="5" fill="#67e8f9"/>
+        <circle cy="102" r="3.5" fill="#a5b4fc"/>
+        <animateTransform attributeName="transform" type="rotate" from="32 0 0" to="392 0 0" dur="28s" repeatCount="indefinite"/>
+      </g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="999" height="269" rx="19.5" fill="none" stroke="#344268"/>
+</svg>
