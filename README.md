@@ -67,6 +67,6 @@ I also work with React Native and Expo for mobile, tRPC for APIs, and Railway fo
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=agntwil-sys&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0B1020&amp;title_color=A5B4FC&amp;text_color=CBD5E1&amp;icon_color=67E8F9&amp;border_color=253452" alt="Wilbert Law's GitHub statistics" width="48%">
-  <img src="https://streak-stats.demolab.com?user=agntwil-sys&amp;theme=tokyonight&amp;background=0B1020&amp;border=253452&amp;ring=A5B4FC&amp;fire=67E8F9&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=A5B4FC&amp;sideLabels=CBD5E1&amp;dates=94A3B8" alt="Wilbert Law's GitHub contribution streak" width="48%">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=agntwil-sys&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;hide_rank=true&amp;disable_animations=true&amp;card_width=495&amp;bg_color=0B1020&amp;title_color=A5B4FC&amp;text_color=CBD5E1&amp;icon_color=67E8F9&amp;border_color=253452" alt="Wilbert Law's GitHub statistics" width="48%">
+  <img src="https://streak-stats.demolab.com?user=agntwil-sys&amp;theme=tokyonight&amp;disable_animations=true&amp;background=0B1020&amp;border=253452&amp;ring=A5B4FC&amp;fire=67E8F9&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=A5B4FC&amp;sideLabels=CBD5E1&amp;dates=94A3B8" alt="Wilbert Law's GitHub contribution streak" width="48%">
 </p>
