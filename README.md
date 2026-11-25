@@ -1,6 +1,6 @@
 <h1>Hi, I'm Wilbert</h1>
 
-**Software developer from Medan, Indonesia** · Computer Science @ BINUS University
+**Software developer from Medan, Indonesia** · Computer Science @ BINUS University<br>
 I build and ship full-stack web, mobile and AI products, end to end.
 
 [![Website](https://img.shields.io/badge/wil.ai.id-live-1f6feb?style=flat-square)](https://wil.ai.id)
