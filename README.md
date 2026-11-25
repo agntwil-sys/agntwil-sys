@@ -21,7 +21,7 @@
 | :--- | :--- |
 | **Application** | Next.js, TypeScript, tRPC, Drizzle ORM, PostgreSQL, and Better Auth |
 | **AI & runtime** | OpenAI, Anthropic, and Gemini via the Vercel AI SDK, with code execution in Daytona sandboxes |
-| **Operations** | Deployed on Railway, with KiPay checkout for subscriptions and acquisition through Google Ads and SEO |
+| **Operations** | Deployed on a self-hosted Ubuntu server, with KiPay checkout for subscriptions and acquisition through Google Ads and SEO |
 
 ## Selected projects
 
@@ -60,9 +60,9 @@ Most of my work lives in private repositories. I'm happy to walk through the cod
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres&amp;theme=dark" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, and PostgreSQL">
 
 **Shipping and collaboration**<br>
-<img src="https://skillicons.dev/icons?i=vercel,git,github&amp;theme=dark" alt="Vercel, Git, and GitHub">
+<img src="https://skillicons.dev/icons?i=linux,git,github&amp;theme=dark" alt="Linux, Git, and GitHub">
 
-I also work with React Native and Expo for mobile, tRPC for APIs, and Railway for deployments.
+I also work with React Native and Expo for mobile, tRPC for APIs, and Linux servers for deployments.
 
 ## GitHub activity
 
